@@ -1,1 +1,1 @@
-# content-j.github.io
+블록체인 플랫폼 화면
